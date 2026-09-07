@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="oled_black">#FF000000</color>
+    <color name="prism_dark">#FF05030F</color>
+    <color name="ic_launcher_background">#06040F</color>
+</resources>

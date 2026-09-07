@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Liquid Prism Clock</string>
+
+    <!-- Time of day -->
+    <string name="tod_morning">🌅 Morning</string>
+    <string name="tod_afternoon">☀️ Afternoon</string>
+    <string name="tod_evening">🌇 Evening</string>
+    <string name="tod_night">🌙 Night</string>
+
+    <!-- Controls -->
+    <string name="cd_toggle_format">Toggle 12/24 hour format</string>
+    <string name="cd_toggle_seconds">Toggle seconds visibility</string>
+    <string name="cd_cycle_theme">Cycle color theme</string>
+    <string name="cd_toggle_fullscreen">Toggle fullscreen mode</string>
+    <string name="cd_toggle_keep_awake">Toggle keep screen awake</string>
+    <string name="cd_open_settings">Open settings</string>
+    <string name="cd_tap_to_reveal">Tap screen to reveal controls</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_clock">Clock</string>
+    <string name="settings_use_24_hour">24-hour format</string>
+    <string name="settings_show_seconds">Show seconds</string>
+    <string name="settings_show_date">Show date</string>
+    <string name="settings_show_tod">Show time-of-day indicator</string>
+
+    <string name="settings_appearance">Appearance</string>
+    <string name="settings_auto_theme">Automatic prism theme</string>
+    <string name="settings_manual_theme">Color theme</string>
+    <string name="settings_anim_intensity">Animation intensity</string>
+    <string name="settings_particle_intensity">Particle intensity</string>
+    <string name="settings_glow_intensity">Glow intensity</string>
+
+    <string name="settings_display">Display</string>
+    <string name="settings_fullscreen">Fullscreen (hide system bars)</string>
+    <string name="settings_keep_awake">Keep screen awake while app is open</string>
+    <string name="settings_keep_awake_note">Keeps this app\'s screen active. It is not a system Always-On Display.</string>
+
+    <string name="settings_developer">Developer</string>
+    <string name="settings_show_fps">Show FPS counter</string>
+    <string name="settings_show_debug">Show animation debug information</string>
+
+    <string name="theme_auto">Automatic</string>
+    <string name="theme_morning">Morning</string>
+    <string name="theme_afternoon">Afternoon</string>
+    <string name="theme_evening">Evening</string>
+    <string name="theme_night">Night</string>
+
+    <string name="intensity_off">Off</string>
+    <string name="intensity_low">Low</string>
+    <string name="intensity_medium">Medium</string>
+    <string name="intensity_high">High</string>
+
+    <!-- Accessibility -->
+    <string name="a11y_clock">Clock</string>
+    <string name="a11y_fps">Frames per second</string>
+    <string name="a11y_digit">Digit %1$s</string>
+</resources>
